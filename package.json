@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.1",
+    "nyc": "^17.1.0"
+  },
+  "dependencies": {
+    "chai": "^4.5.0"
+  }
+}
